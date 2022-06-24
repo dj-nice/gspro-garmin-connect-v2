@@ -137,7 +137,7 @@ class GsProConnect {
             },
             ShotDataOptions: {
                 ContainsBallData: true,
-                ContainsClubData: false,
+                ContainsClubData: true,
             },
         }
 
